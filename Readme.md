@@ -3,9 +3,9 @@
 
 <a href='https://karine-h.github.io/T2I-CompBench-new/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://ieeexplore.ieee.org/abstract/document/10847875'><img src='https://img.shields.io/badge/T2I--CompBench++-Paper-red'></a> 
-<a href='https://arxiv.org/pdf/2307.06350.pdf'><img src='https://img.shields.io/badge/T2I--CompBench-Arxiv-red'></a> 
+<a href='https://arxiv.org/pdf/2307.06350v2'><img src='https://img.shields.io/badge/T2I--CompBench-Arxiv-red'></a> 
 <a href='https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG'><img src='https://img.shields.io/badge/Dataset-T2I--CompBench++-blue'></a> 
-<a href='https://connecthkuhk-my.sharepoint.com/:u:/g/personal/huangky_connect_hku_hk/EfZUFShvGCdArofWOUHXkTgBjcemz2jN6VPmd8tM8mhjeQ?e=NsdFjK'><img src='https://img.shields.io/badge/Dataset-Human eval images-purple'></a> 
+<a href='https://connecthkuhk-my.sharepoint.com/:u:/g/personal/huangky_connect_hku_hk/EXEFBTzE6khPlsx2qPMjF9EBQYkE4WC2Z_XQGIjRUevjRQ'><img src='https://img.shields.io/badge/Dataset-Human eval images-purple'></a> 
 
 This repository contains the following papers:
 > **T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**<br>
@@ -301,7 +301,7 @@ python inference_eval.py  --from_file "${from_file}"
 ```
 
 ### Citation
-If you're using T2I-CompBench in your research or applications, please cite using this BibTeX:
+If you're using T2I-CompBench(++) in your research or applications, please cite using this BibTeX:
 ```bibtex
 @article{huang2023t2icompbench,
   title={T2i-compbench: A comprehensive benchmark for open-world compositional text-to-image generation},
